@@ -56,6 +56,10 @@ Produce:
 - `gaetano_photonics_stack_template.md`
 - a concise Chinese or bilingual research-model report
 
+## Companion Tooling
+
+This skill contains no scripts of its own. The CSV outputs above are produced with the sister skill `skill-x-trader-builder` (https://github.com/quantskills/skill-x-trader-builder): use its `extract`, `auto-review`, `split`, `evaluate`, `template`, and `report` subcommands, then apply this skill's references and semantic labels for the Gaetano-specific interpretation.
+
 ## References
 
 Use `references/trader_profile.md`, `references/research_template.md`, `references/review_rules.md`, and `references/source_boundary.md`.
