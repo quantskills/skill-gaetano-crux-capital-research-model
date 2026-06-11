@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+real_runs/
+sources/
+outputs/
+prices_yahoo*/
+browser_profiles/
+*.html
+*.log

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gaetano Crux Capital Research Model"
+  short_description: "Analyze photonics and Physical AI theses."
+  default_prompt: "Use $gaetano-crux-capital-research-model to analyze a photonics, optical networking, Physical AI, or AI infrastructure thesis with stack position, chokepoint, evidence, catalyst, valuation risk, and public-source boundary."

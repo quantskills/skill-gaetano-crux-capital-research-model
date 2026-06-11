@@ -1,0 +1,142 @@
+# Gaetano / Crux Capital ????????
+
+## ??
+
+?????? 124 ? ticker-level signal?74 ??????????????????????/????????/?????watchlist/????? ticker ?????????
+
+## ????
+
+- keep_deweighted: 48
+- deweight: 34
+- delete_from_forward: 30
+- keep: 12
+
+## ???
+
+- high_quality_thesis: 12
+- quoted_retrospective_theme_context: 12
+- incomplete_thread_thesis: 8
+- capex_readthrough_basket: 7
+- basket_thesis: 5
+- cheat_sheet_context: 5
+- earnings_week_context: 5
+- dictionary_context: 4
+- idea_queue: 4
+- third_party_quote: 4
+- comparison_only: 4
+- own_article_repost: 3
+- event_readthrough_question: 3
+- coverage_hub_context: 2
+- technical_explainer: 2
+- event_thesis_update: 2
+- biotech_catalyst_update: 2
+- earnings_thesis_update: 2
+- pre_coverage_watchlist: 2
+- smallcap_thesis_preview: 1
+- earnings_update: 1
+- watchlist_framework: 1
+- earnings_watch_context: 1
+- product_explainer: 1
+- explainer_context: 1
+- not_gaetano: 1
+- mispricing_catalyst: 1
+- commercialization_update: 1
+- biotech_catalyst: 1
+- catalyst_summary: 1
+- short_term_price_forecast: 1
+- post_data_conviction: 1
+- post_data_price_reaction: 1
+- biotech_financing_risk: 1
+- post_move_noise: 1
+- intraday_noise: 1
+- short_term_trading_comment: 1
+- retrospective_track_record: 1
+- earnings_quality_update: 1
+- speculative_partner_hypothesis: 1
+- potential_acquirer_context: 1
+- swing_trade_setup: 1
+- supplier_readthrough: 1
+- demand_source_only: 1
+- materials_thesis: 1
+- risk_response_update: 1
+- quoted_prior_thesis_after_move: 1
+- own_comment_on_third_party_thesis: 1
+- question_context: 1
+- retrospective_level_claim: 1
+- missed_entry_retrospective: 1
+- earnings_watchlist_levels: 1
+- earnings_watchlist_context: 1
+- quoted_context_only: 1
+- duplicate_cross_listing: 1
+
+## ????
+
+- `signals_human_reviewed.csv`: ?? 124 ??????????
+- `signals_forward_human_clean.csv`: ?? quote-only????????????????/??????
+- `signals_high_quality_thesis_human.csv`: ???????? thesis?
+- `signals_removed_by_human_review.csv`: ??????
+- `human_review_post_summary.csv`: ?????????????
+
+## ???????? thesis ticker
+
+- POET: 2
+- LITE: 2
+- AAOI: 1
+- GLW: 1
+- P: 1
+- SMTC: 1
+- CIEN: 1
+- FN: 1
+- TSEM: 1
+- ENTG: 1
+
+## ?????? forward ticker Top 20
+
+- POET: 15
+- IXHL: 8
+- LITE: 6
+- COHR: 5
+- SIVE: 4
+- MRVL: 4
+- ALMU: 4
+- AAOI: 3
+- AEHR: 3
+- AXTI: 3
+- GLW: 2
+- P: 2
+- ITRM: 2
+- ABCL: 2
+- IREN: 2
+- VIAV: 2
+- COHU: 2
+- SMTC: 1
+- CIEN: 1
+- FN: 1
+
+## ??????
+
+- quoted_retrospective_theme_context: 12
+- third_party_quote: 4
+- comparison_only: 4
+- not_gaetano: 1
+- post_move_noise: 1
+- intraday_noise: 1
+- retrospective_track_record: 1
+- potential_acquirer_context: 1
+- demand_source_only: 1
+- retrospective_level_claim: 1
+- missed_entry_retrospective: 1
+- quoted_context_only: 1
+- duplicate_cross_listing: 1
+
+## ??????
+
+- `@aleabitoreddit` / Serenity ????? `$NBIS/$CRWV/$IREN` ??? Gaetano ???????
+- `BenzyStocks` ? `$GLW` ??? Gaetano ????????
+- Physical AI ????????? ticker ?????/????????????? forward signal?
+- `SIVEF` ? `SIVE` ??????/??????????? `SIVE`????????
+- ?? hit level?missed entry?halt?after-move ?????????????
+
+## ??
+
+?????????????????????? X ???????/??????? long thread ??????? X archive?Apify ? API ?????????
