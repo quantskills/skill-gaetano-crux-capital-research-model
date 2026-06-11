@@ -49,3 +49,9 @@ Commit the skill folder, references, and lightweight Markdown outputs. Do not co
 ### GitHub 边界
 
 建议上传 Skill 文件夹、references 和轻量 Markdown 报告。不要上传原始导出、付费文章、大型 CSV、私人笔记或下载的价格数据。
+
+## License / 许可证
+
+This project is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE).
+
+本项目使用 GNU General Public License v3.0（GPL-3.0）协议发布，详见 [LICENSE](LICENSE)。

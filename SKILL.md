@@ -7,6 +7,7 @@ quantSkills:
   repository_url: https://github.com/quantskills/skill-gaetano-crux-capital-research-model
   project_type: skill
   collection: trader-research-models
+  license: GPL-3.0
 ---
 
 # Gaetano Crux Capital Research Model
