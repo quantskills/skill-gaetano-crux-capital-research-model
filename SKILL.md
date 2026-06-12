@@ -1,6 +1,12 @@
 ---
 name: gaetano-crux-capital-research-model
-description: "Build and apply a Gaetano / Crux Capital-style photonics, optical networking, Physical AI, and AI infrastructure research model from public X posts, public Substack pages, company coverage notes, earnings transcripts, technical papers, and market datasets. Use when an agent needs to map the photonics stack, identify AI infrastructure chokepoints, separate public thesis work from paid/private content, or create a trader-specific research skill for portable agent platforms such as Claude Code, OpenClaw, Codex-style skill systems, or other local AI agent runtimes."
+description: Build and apply a Gaetano / Crux Capital-style photonics, optical networking,
+  Physical AI, and AI infrastructure research model from public X posts, public Substack
+  pages, company coverage notes, earnings transcripts, technical papers, and market
+  datasets. Use when an agent needs to map the photonics stack, identify AI infrastructure
+  chokepoints, separate public thesis work from paid/private content, or create a
+  trader-specific research skill for portable agent platforms such as Claude Code,
+  OpenClaw, Codex-style skill systems, or other local AI agent runtimes.
 quantSkills:
   organization: https://github.com/quantskills
   repository: quantskills/skill-gaetano-crux-capital-research-model
@@ -8,6 +14,27 @@ quantSkills:
   project_type: skill
   collection: trader-research-models
   license: GPL-3.0
+  category: analyst
+  tags:
+  - ai-infrastructure
+  - photonics
+  - optical-networking
+  - physical-ai
+  - research-model
+  platforms:
+  - claude-code
+  - codex
+  - openclaw
+  - cursor
+  status: stable
+  validation_level: listed
+  maintainer_type: official
+  summary_zh: 基于公开资料复刻 Gaetano / Crux Capital 的研究方法：把公开 X 帖子、公开 Substack 页面、财报与技术论文，拆解成「光子堆栈定位
+    → chokepoint 识别 → 证据分级 → 催化与风险跟踪」的结构化研究模型。
+  summary_en: Research-model skill for public-material analysis of photonics, optical
+    networking, Physical AI, and AI infrastructure themes.
+  requires:
+  - skill-x-trader-builder
 ---
 
 # Gaetano Crux Capital Research Model
